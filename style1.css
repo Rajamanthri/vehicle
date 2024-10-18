@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: blanchedalmond;
+}
+
+.div1 {
+    background-color: white;
+    max-width: 400px;
+    margin: 5% auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+}
+
+h2 {
+    text-align: center;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+lable {
+    font-weight: bold;
+    
+}
+
+input {
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+#btn1 {
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+#btn1:hover {
+    background-color: #02254b;
+}
+
+.log {
+    font-size: x-small;
+}
+
+.logp {
+    text-decoration: none;
+    margin-left: 220px;
+}
+
+.editp {
+    text-decoration: none;
+}
